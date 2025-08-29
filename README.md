@@ -21,7 +21,7 @@ A Discord bot that converts text messages into retro CRT-style animated GIFs wit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/retrobot.git
+   git clone https://github.com/cyber01012/retrobot.git
    cd retrobot
    ```
 
