@@ -1,0 +1,34 @@
+{
+  "name": "retrobot",
+  "version": "1.0.0",
+  "description": "A Discord bot that converts text messages into retro CRT-style animated GIFs with authentic vintage computer aesthetics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "crt",
+    "retro",
+    "gif",
+    "canvas",
+    "vintage",
+    "terminal",
+    "monitor"
+  ],
+  "author": "cyber",
+  "license": "ISC",
+
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.77",
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.1",
+    "gif-encoder-2": "^1.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
