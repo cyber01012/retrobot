@@ -13,7 +13,7 @@ const path = require('path');
 try {
 	registerFont('C:/Windows/Fonts/cour.ttf', { family: 'Courier New' });
 } catch (_) {
-	// Ignore if the font path is not available; the system default Courier New should still work
+	// Ignore if the font path is not available cuz the system default Courier New should still work
 }
 
 // Canvas and rendering configuration
