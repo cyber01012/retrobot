@@ -106,6 +106,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Made with ❤️ by cyber**
 
-*RetroBot - Bringing back the golden age of CRT monitors, one GIF at a time!*
